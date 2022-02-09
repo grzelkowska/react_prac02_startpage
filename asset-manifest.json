@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react_prac02_tappage/static/css/main.5a0eb310.css",
-    "main.js": "/react_prac02_tappage/static/js/main.a7eb2cff.js",
-    "static/media/7.jpeg": "/react_prac02_tappage/static/media/7.9c1002b72153b8eb45b3.jpeg",
-    "static/media/6.jpeg": "/react_prac02_tappage/static/media/6.dbc622712bc9e11a032b.jpeg",
-    "static/media/5.jpeg": "/react_prac02_tappage/static/media/5.a567ac526e350943c23e.jpeg",
-    "static/media/0.jpeg": "/react_prac02_tappage/static/media/0.c51b47839e6be18ec8e5.jpeg",
-    "static/media/4.jpeg": "/react_prac02_tappage/static/media/4.31a68d53c73ebea9bb0e.jpeg",
-    "static/media/1.jpeg": "/react_prac02_tappage/static/media/1.5c6967dbdabfa66f0d0a.jpeg",
-    "static/media/2.jpeg": "/react_prac02_tappage/static/media/2.a69149330dadf24cf2f8.jpeg",
-    "static/media/3.jpeg": "/react_prac02_tappage/static/media/3.b9c920d3e8c0f0ea4651.jpeg",
-    "index.html": "/react_prac02_tappage/index.html",
-    "main.5a0eb310.css.map": "/react_prac02_tappage/static/css/main.5a0eb310.css.map",
-    "main.a7eb2cff.js.map": "/react_prac02_tappage/static/js/main.a7eb2cff.js.map"
+    "main.css": "/react_prac02_startpage/static/css/main.5a0eb310.css",
+    "main.js": "/react_prac02_startpage/static/js/main.0c931e67.js",
+    "static/media/7.jpeg": "/react_prac02_startpage/static/media/7.9c1002b72153b8eb45b3.jpeg",
+    "static/media/6.jpeg": "/react_prac02_startpage/static/media/6.dbc622712bc9e11a032b.jpeg",
+    "static/media/5.jpeg": "/react_prac02_startpage/static/media/5.a567ac526e350943c23e.jpeg",
+    "static/media/0.jpeg": "/react_prac02_startpage/static/media/0.c51b47839e6be18ec8e5.jpeg",
+    "static/media/4.jpeg": "/react_prac02_startpage/static/media/4.31a68d53c73ebea9bb0e.jpeg",
+    "static/media/1.jpeg": "/react_prac02_startpage/static/media/1.5c6967dbdabfa66f0d0a.jpeg",
+    "static/media/2.jpeg": "/react_prac02_startpage/static/media/2.a69149330dadf24cf2f8.jpeg",
+    "static/media/3.jpeg": "/react_prac02_startpage/static/media/3.b9c920d3e8c0f0ea4651.jpeg",
+    "index.html": "/react_prac02_startpage/index.html",
+    "main.5a0eb310.css.map": "/react_prac02_startpage/static/css/main.5a0eb310.css.map",
+    "main.0c931e67.js.map": "/react_prac02_startpage/static/js/main.0c931e67.js.map"
   },
   "entrypoints": [
     "static/css/main.5a0eb310.css",
-    "static/js/main.a7eb2cff.js"
+    "static/js/main.0c931e67.js"
   ]
 }
